@@ -29,4 +29,4 @@ Simon is a classic memory game where players must repeat a sequence of button pr
 
 ## Demo
 
-You can play a live demo of the game [here](#https://sanajjadhav15.github.io/Simon-Game/).
+You can play a live demo of the game [here](https://sanajjadhav15.github.io/Simon-Game/).
