@@ -24,7 +24,7 @@ Simon is a classic memory game where players must repeat a sequence of button pr
 
 ## Installation
 
-1. Clone the repository: `[git clone https://github.com/your-username/simon-game.git](https://github.com/sanajjadhav15/Simon-Game.git)`
+1. Clone the repository: `[git clone(https://github.com/sanajjadhav15/Simon-Game.git)]`
 2. Open `index.html` in your web browser.
 
 ## Demo
